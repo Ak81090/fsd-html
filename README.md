@@ -1,1 +1,1 @@
-# fsd-html
+Sample project
